@@ -1,0 +1,5 @@
+{
+  "name": "DigiLocker Secure - Secure Document Management System",
+  "description": "A Google Drive-inspired secure document management system featuring a comprehensive user dashboard, admin controls, role-based authentication, and soft-delete capabilities.",
+  "requestFramePermissions": []
+}
